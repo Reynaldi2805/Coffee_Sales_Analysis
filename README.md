@@ -8,3 +8,13 @@ The objective of this analysis is to delve into customer buying behavior and pre
 
 ## Background
 Coffee shops are a thriving business in many regions, particularly in Indonesia. For startup coffee shop owners and entry-level baristas, understanding customer preferences is crucial for achieving marketing success and building a loyal customer base. This analysis seeks to provide actionable insights that can help coffee businesses thrive in this competitive market.
+
+## Tools Used
+- **Python Libraries**:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scipy
+  - plotly
+
